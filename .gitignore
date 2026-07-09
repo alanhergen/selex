@@ -4,3 +4,4 @@ build/*
 AppRun
 selex
 *.desktop
+*.spec
