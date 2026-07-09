@@ -9,5 +9,6 @@
 | 1-5 | Select 1-5 random images |
 | H | Horizontal mode |
 | V | Vertical mode |
+| Esc / Backspace | Quit folder |
 
 You can also clic each individual selection to change it
