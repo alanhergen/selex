@@ -83,7 +83,7 @@ class App:
         root.update()
         root.focus_force()
         
-        dir_path = filedialog.askdirectory(title="Selecciona una carpeta con imágenes", initialdir=Path.home())
+        dir_path = filedialog.askdirectory(title="Select a folder with images", initialdir=Path.home())
         root.destroy()
 
         self.display = pygame.display.set_mode(modo_actual, pygame.SHOWN)
