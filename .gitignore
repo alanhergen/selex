@@ -1,0 +1,6 @@
+.*
+usr/*
+build/*
+AppRun
+selex
+*.desktop
