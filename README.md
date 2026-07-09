@@ -7,7 +7,7 @@
 | Key | Function |
 | :---: | :---: |
 | 1-5 | Select 1-5 random images |
-| H | Horizonta mode |
+| H | Horizontal mode |
 | V | Vertical mode |
 
 You can also clic each individual selection to change it
