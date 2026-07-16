@@ -6,6 +6,8 @@ from platformdirs import user_config_dir
 import tkinter as tk
 from tkinter import filedialog
 
+os.environ['SDL_VIDEO_CENTERED'] = '1'
+
 SIZE = 125
 
 def get_path(relative_path):
